@@ -10,6 +10,7 @@
     Performs facial and object recognition using the trained model
     
 Dataset Used: COCO (Common Objects in Context) dataset was used to train the model
+
 References: pyimagesearch.com
 
 Note: Download the utilities necessary for the project from the below mentioned link.
